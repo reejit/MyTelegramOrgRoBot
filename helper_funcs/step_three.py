@@ -55,7 +55,7 @@ def scarp_tg_existing_app(stel_token):
                 "test_configuration": test_configuration,
                 "production_configuration": production_configuration
             },
-            "Disclaimer": "Please store these values carefully /nWe will not be responsible for any misuse....."
+            "Disclaimer": "Please store these values carefully.We will not be responsible for any misuse....."
         }
         re_status_id = True
     else:
