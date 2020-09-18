@@ -8,7 +8,7 @@
 
 #### The Easy Way
 
-[![Deploy](https://heroku.com/deploy?template=https://github.com/reejit/MyTelegramOrgRoBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 #### The Legacy Way
