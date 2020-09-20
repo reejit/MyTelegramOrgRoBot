@@ -1,13 +1,15 @@
 class Translation(object):
     START_TEXT = """Hi!
-😬Thank you for using me😬
-Enter your Telegram Phone Number
-To get the APP-ID from my.telegram.org
+😉Thank you for using me😉
+**Enter your Telegram Phone Number**
+And Follow the instructions what I say!!!!
+And Do Nothing else ...
+😎😎😎😎😎😎
 """
     AFTER_RECVD_CODE_TEXT = """I see!!!!
 now please send the Telegram code that you received from Telegram
 Please note it down that i do not take any information from this bot!
-This bot is runned only for the purposes of getting APP_ID and APP_HASH....
+This bot is runned only for the purpose of getting App-id and Api-hash....
 
 
 This Bot is only used for the purpose of getting the APP ID from my.telegram.org
